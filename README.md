@@ -86,11 +86,11 @@ $
 $
 
 $
-  s.t. \space \space i \in 	\mathbb{N}, 0 \leq j \leq N, min(D_{s, i}) > D_{safe}
+  s.t. \space \space i \in 	\mathbb{N}, 0 \leq j \leq N, D_{s, i} > D_{safe}
   \space\space\space\space\space\space\space\space (3.6)
 $
 $
-  s.t. \space \space j \in \mathbb{N}, 0 \leq j \leq L, min(D_{s, o_j}) > 0
+  s.t. \space \space j \in \mathbb{N}, 0 \leq j \leq L, D_{s, o_j} > 0
   \space\space\space\space\space\space\space\space (3.7)
 $
 
